@@ -20,3 +20,17 @@
 
 # Attributes and the attr_* method family
  - An attribute is an property of object whose value cand be read and weite through object.
+
+# Inhritance
+ - In inheritance one class occuipied all the properties of another class.
+ - Single inheritance
+
+# Class as object and message
+ - Creating a class as object (my_class = Class.new)
+ - class Ticket
+     some_message
+ - Ticket.some_message
+
+# Module creation
+ - Module creation is same as class creation only difference is in class use class variable and in module use module keyword.
+ - 
