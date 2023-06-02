@@ -33,4 +33,9 @@
 
 # Module creation
  - Module creation is same as class creation only difference is in class use class variable and in module use module keyword.
- - 
+ # Mixin module
+  - Ruby doesn't support multiple inheritance, so that ruby module have another module mixin.
+ # Mixing in two modules with same name.
+  - Like class in method which method is  defined in second module that takes precedence.
+  - To solve this problem Super keywords used.
+  - Using super you can call the recent method.
