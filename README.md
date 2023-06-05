@@ -57,3 +57,19 @@
   - Method include from a module.
 # Protected method
   - Rules of call protected method is you can call a protected method on an object x, as long as the default object (self) is an instance of the same class as x.
+
+# Error handling
+ - In ruby exception handling is a process to handle error raised in a program.
+ begin
+    raise
+      # block where exception raise
+
+    rescue
+      # block where exception rescue
+  end
+1. Retry statement
+  This statement is used to execute the rescue block again from the beginning after capturing the exception.
+2. Raise statement
+  This statement is used to raise an exception.
+3. Ensure statement
+  This statement ensures that required instructions will execute at the end of the code.
