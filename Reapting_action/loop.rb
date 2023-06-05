@@ -1,3 +1,4 @@
+#In those example perform all the types of loop syntax.
 #while
 x = 4
 while x >= 1

@@ -1,3 +1,5 @@
+# In this example it shows only how self call his patent method.
+
 class C
   puts "just started class C:"
   puts self

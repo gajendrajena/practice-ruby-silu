@@ -1,7 +1,7 @@
 class C
   def x
-  puts "Class C, method x:"
-  puts self
+    puts "Class C, method x:"
+    puts self
   end
 end
 c = C.new

@@ -1,3 +1,7 @@
+# In this example something and some_method are declar as private methods.
+# print_something is class call those methods.
+# Private methods are declared in same class name ExampleClass.
+
 # class ExampleClass
 #   def print_something
 #     something
