@@ -73,3 +73,9 @@
   This statement is used to raise an exception.
 3. Ensure statement
   This statement ensures that required instructions will execute at the end of the code.
+
+# Built in essential
+ - It refers to the core functionality of ruby provided by itself, without needed of libraries.
+ - e.g. : Datatype(string,integer,float), controlflow(if, else, while) etc.
+ ## Recurrent syntactic sugar
+ - Syntactic sugar refers to a future of syntax that makes code easier to read and write.
