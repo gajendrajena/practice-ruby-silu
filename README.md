@@ -48,4 +48,12 @@
 
 # Self and Current object.
  - In java we used "this" keyword to access current object, instead of "this" in ruby used self keyword to access current object.
- 
+
+# Method access rules
+  # Private method
+  - Private method are always called with context of self object.
+  - It can be called other methods in same class.
+  - Method inherited from parent.
+  - Method include from a module.
+# Protected method
+  - Rules of call protected method is you can call a protected method on an object x, as long as the default object (self) is an instance of the same class as x.
