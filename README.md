@@ -39,3 +39,13 @@
   - Like class in method which method is  defined in second module that takes precedence.
   - To solve this problem Super keywords used.
   - Using super you can call the recent method.
+# Method_missing
+ - Method_missing is used give the access inside the object a way to handle situation when you call  method does not exist.
+ # Method missing accept 3 parameters
+  - The first is the name of the method you trying to access.
+  - Second is (*args) were passed to the method.
+  - Third is a block (&block).
+
+# Self and Current object.
+ - In java we used "this" keyword to access current object, instead of "this" in ruby used self keyword to access current object.
+ 
