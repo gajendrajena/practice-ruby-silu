@@ -79,3 +79,6 @@
  - e.g. : Datatype(string,integer,float), controlflow(if, else, while) etc.
  ## Recurrent syntactic sugar
  - Syntactic sugar refers to a future of syntax that makes code easier to read and write.
+
+# Symbol in Ruby
+ - Symbol are immutable names and primarey used as hash keys for reference method names.
