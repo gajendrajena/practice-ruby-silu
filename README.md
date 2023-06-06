@@ -82,3 +82,9 @@
 
 # Symbol in Ruby
  - Symbol are immutable names and primarey used as hash keys for reference method names.
+
+# Hashes in Ruby
+ - Like array hash is a collection of objects, In which values are store in key value pairs,all key values are considered as objects.
+
+# Ranges in Ruby
+ - Range is an object with a start point and an end point.
