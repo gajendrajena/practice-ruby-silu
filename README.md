@@ -88,3 +88,12 @@
 
 # Ranges in Ruby
  - Range is an object with a start point and an end point.
+
+# Enumerable
+ - It’s common to want to filter a collection of objects based on one or more selection criteria.
+
+# Enumerable searching and selecting
+ - It's a common way to to filter of objects based on one or more selection criteria.
+ - first match with find
+ - find_all
+ - 
