@@ -96,4 +96,6 @@
  - It's a common way to to filter of objects based on one or more selection criteria.
  - first match with find
  - find_all
- - 
+
+# Regular expressions
+ - Regular expressions is a specical sequence of characters that helps to match other strings using special syntax in pattern.
